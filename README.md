@@ -23,15 +23,12 @@ It consists of 1,599 samples of Portuguese red wine from the *Vinho Verde* regio
 
 ## 🧠 Methods Used
 
-- **Exploratory Data Analysis (EDA)** and feature correlation analysis
 - **Supervised Learning**:
-  - Linear Regression
   - Decision Trees & Random Forests (Ensemble Methods)
   - Support Vector Machines (SVM)
   - Artificial Neural Networks (ANN)
 - **Unsupervised Learning**:
   - K-Means Clustering for pattern discovery and grouping
-- **Model Evaluation** using MAE, RMSE, and R²
 
 ## 🎯 Objectives
 
